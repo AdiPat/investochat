@@ -1,8 +1,10 @@
-## InvestoChat
+# InvestoChat
 
-A ReactJS chatbot that gives detailed investment plans using a heuristic search algorithm in combination with a Deep Neural Network API (WIP) on the backend
+### A ReactJS chatbot that gives detailed investment plans using a heuristic search algorithm in combination with a Deep Neural Network API (Work in Progress) on the backend.
 
-**The project is still under development and is a supplement to the AI Course I have taken in college**
+`The project is still under development and is a supplement to an Artificial Intelligence Course I have taken in college`
+
+---
 
 ## Setup Instructions
 
