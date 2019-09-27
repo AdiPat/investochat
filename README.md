@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## InvestoChat
+
+A ReactJS chatbot that gives detailed investment plans using a heuristic search algorithm in combination with a Deep Neural Network API (WIP) on the backend
+
+**The project is still under development and is a supplement to the AI Course I have taken in college**
+
+## Setup Instructions
 
 ## Available Scripts
 
